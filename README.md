@@ -1,1 +1,3 @@
 # machine_learning_assignment
+
+HUST 2022 SPRING MACHINE LEARNING COURSE ASSIGNMENT
